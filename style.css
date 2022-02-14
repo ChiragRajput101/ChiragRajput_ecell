@@ -493,7 +493,7 @@ body{
         align-items: center;
     }
 }
-@media (max-height:670px){
+@media (max-height:599px){
     .cool-animation{
         display: none;
     }
